@@ -1,2 +1,2 @@
 # IITM-project
-Projects under the guidance of Prof. Lelitha Devi
+Projects done under the guidance of Prof. Lelitha Devi
