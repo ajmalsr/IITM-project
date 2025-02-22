@@ -77,7 +77,7 @@ python hog_svm_video_tracker.py
 
 ---
 
-## 🖼 4️⃣ `hog_svm_image_test.py` - Image Testing
+## 🖼 4️⃣ `hog_svm_vehicle_detector.py` - Image Testing
 
 ### 🎯 Functionality
 
@@ -88,7 +88,7 @@ python hog_svm_video_tracker.py
 ### 🛠 How to Run
 
 ```sh
-python hog_svm_image_test.py
+python hog_svm_vehicle_detector.py
 ```
 
 **⚠ Requires:** A folder containing test images (e.g., `TEST_IMAGE/`).
