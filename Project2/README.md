@@ -6,14 +6,13 @@ The scripts allow detection on **images, videos, and live streams**, with option
 ---
 
 ## 📂 Contents
-
-| Script Name | Description                                                                                 |
-| ----------- | ------------------------------------------------------------------------------------------- |
-| ``          | Trains an SVM model using HOG features on a dataset.                                        |
-| ``          | Detects vehicles in a video using HOG + SVM with Sliding Window & NMS.                      |
-| ``          | Adds motion tracking using OpenCV’s Background Subtraction (MOG2) to filter moving objects. |
-| ``          | Tests the trained model on a folder of test images.                                         |
-| ``          | Detects objects in video but without motion tracking.                                       |
+| Script Name                   | Description |
+|--------------------------------|------------|
+| **`hog_svm_classifier.py`**    | Trains an SVM model using HOG features on a dataset. |
+| **`hog_svm_video_detector.py`** | Detects vehicles in a video using HOG + SVM with Sliding Window & NMS. |
+| **`hog_svm_video_tracker.py`** | Adds motion tracking using OpenCV’s Background Subtraction (MOG2) to filter moving objects. |
+| **`hog_svm_image_test.py`** | Tests the trained model on a folder of test images. |
+| **`hog_svm_video_test.py`** | Detects objects in video but without motion tracking. |
 
 ---
 
