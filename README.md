@@ -5,7 +5,7 @@ Welcome to my **IITM-projects repository**, featuring innovative projects develo
 ## 📂 Projects Overview
 ### 🔹 Project 1: [Click to Explore](./Project1)
 - **Focus:** 🚦 Intelligent Traffic Light Detection
-- **Technology:** OpenCV, Machine Learning
+- **Technology:** OpenCV, Image Processing
 - **Highlights:** Detects and timestamps traffic light changes in video footage.
 
 ### 🔹 Project 2: [Click to Explore](./Project2)
